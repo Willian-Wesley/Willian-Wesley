@@ -1,5 +1,6 @@
-
-### Olá! Eu sou o Willian Wesley 🖐️😁
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+<div align="center"> 
+  <h2>Olá! Eu sou o Willian Wesley  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">😁<h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/william_wesley_?igsh=MXg5YThhdTNjem5kZg%3D%3D&utm_source=qr)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-wesley-6b1bb71a3/)
@@ -14,3 +15,9 @@
 <div><br/>
 
 Apaixonado por tecnologia e programação.
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
+</div>
