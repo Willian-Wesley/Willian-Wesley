@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**Willian-Wesley/Willian-Wesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Willian Wesley 🖐️😁
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/william_wesley_?igsh=MXg5YThhdTNjem5kZg%3D%3D&utm_source=qr)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-wesley-6b1bb71a3/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Willian Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=Willian-Wesley&show_icons=true&theme=dracula)
+
+## Tecnologias que eu uso no meu dia 
+
+<div style="display: inline_block"><br/>
+   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+   <img align="center" alt="Java" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<div><br/>
+
+Apaixonado por tecnologia e programação.
